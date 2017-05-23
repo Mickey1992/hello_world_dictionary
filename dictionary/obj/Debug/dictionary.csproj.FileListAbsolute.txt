@@ -1,0 +1,47 @@
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.Cache
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.pdb
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.Form_recite.resources
+C:\Users\王璐\Documents\Visual Studio 2008\Projects\dictionary\dictionary\obj\Debug\dictionary.Form2.resources
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.pdb
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form2.resources
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form_recite.resources
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.Cache
+I:\项目\dictionary\dictionary\bin\Debug\dictionary.exe.config
+I:\项目\dictionary\dictionary\obj\Debug\dictionary.exe
+I:\项目\dictionary\dictionary\obj\Debug\dictionary.pdb
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.pdb
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form2.resources
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Form_recite.resources
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+C:\Users\王璐\Desktop\项目\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.Cache
+D:\备份20120528\项目\dictionary\dictionary\bin\Debug\dictionary.exe.config
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.exe
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.pdb
+D:\备份20120528\项目\dictionary\dictionary\bin\Debug\dictionary.exe
+D:\备份20120528\项目\dictionary\dictionary\bin\Debug\dictionary.pdb
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.Form1.resources
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.Form2.resources
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.Form_recite.resources
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.Properties.Resources.resources
+D:\备份20120528\项目\dictionary\dictionary\obj\Debug\dictionary.csproj.GenerateResource.Cache
+D:\备份20120528\项目\dictionary\dictionary\bin\Debug\Resources\Database1.sdf
